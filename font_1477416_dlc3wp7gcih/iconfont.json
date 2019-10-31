@@ -1,0 +1,177 @@
+{
+  "id": "1477416",
+  "name": "aiai",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "179381",
+      "name": "甜品",
+      "font_class": "tianpin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "256108",
+      "name": "卡卷",
+      "font_class": "untitled4",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "689261",
+      "name": "类目 品类 分类 类别.2",
+      "font_class": "fenlei",
+      "unicode": "e7f8",
+      "unicode_decimal": 59384
+    },
+    {
+      "icon_id": "689262",
+      "name": "类目 品类 分类 类别",
+      "font_class": "fen",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    },
+    {
+      "icon_id": "887907",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "905874",
+      "name": "账户",
+      "font_class": "zhanghu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1005541",
+      "name": "活动",
+      "font_class": "huodong",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "1054274",
+      "name": "发现",
+      "font_class": "faxian_empy",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "1291671",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1580030",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "1605969",
+      "name": "水果",
+      "font_class": "shuiguo",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "1692490",
+      "name": "卖场",
+      "font_class": "maichang",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "1975076",
+      "name": "我的",
+      "font_class": "wode1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "2116282",
+      "name": "首页",
+      "font_class": "home",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "2890716",
+      "name": "VIP",
+      "font_class": "VIP",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "4166172",
+      "name": "汉堡",
+      "font_class": "hanbao",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "6446009",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "6941622",
+      "name": "签到",
+      "font_class": "e",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "7674117",
+      "name": "免费",
+      "font_class": "mianfeix",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "7843634",
+      "name": "美食",
+      "font_class": "fenzu",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "7956084",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "9350677",
+      "name": "帮 助 2",
+      "font_class": "bangzhu",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "9716701",
+      "name": "反馈",
+      "font_class": "fankui",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "10809207",
+      "name": "购物车 购物",
+      "font_class": "shopp",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    }
+  ]
+}
