@@ -15,9 +15,16 @@
     {
       "icon_id": "256108",
       "name": "卡卷",
-      "font_class": "untitled4",
+      "font_class": "untitled",
       "unicode": "e664",
       "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "598879",
+      "name": "当地游玩",
+      "font_class": "dangdi",
+      "unicode": "e630",
+      "unicode_decimal": 58928
     },
     {
       "icon_id": "689261",
@@ -57,7 +64,7 @@
     {
       "icon_id": "1054274",
       "name": "发现",
-      "font_class": "faxian_empy",
+      "font_class": "faxian",
       "unicode": "e669",
       "unicode_decimal": 58985
     },
@@ -67,6 +74,20 @@
       "font_class": "search",
       "unicode": "e613",
       "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1572259",
+      "name": "mf_跟团游图标",
+      "font_class": "gentuan",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "1572260",
+      "name": "mf_自由行图标",
+      "font_class": "ziyou",
+      "unicode": "e622",
+      "unicode_decimal": 58914
     },
     {
       "icon_id": "1580030",
@@ -111,11 +132,39 @@
       "unicode_decimal": 58935
     },
     {
+      "icon_id": "3705481",
+      "name": "游轮",
+      "font_class": "youlun",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
       "icon_id": "4166172",
       "name": "汉堡",
       "font_class": "hanbao",
       "unicode": "e621",
       "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "5605317",
+      "name": "客运汽车票查询",
+      "font_class": "keyun",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "6357072",
+      "name": "酒店",
+      "font_class": "jiudian",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "6395595",
+      "name": "火车",
+      "font_class": "huoche",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
     },
     {
       "icon_id": "6446009",
@@ -130,6 +179,20 @@
       "font_class": "e",
       "unicode": "e63e",
       "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "7471063",
+      "name": "我的门票",
+      "font_class": "menpiao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7471085",
+      "name": "签证-1",
+      "font_class": "qianzheng",
+      "unicode": "e607",
+      "unicode_decimal": 58887
     },
     {
       "icon_id": "7674117",
@@ -153,6 +216,13 @@
       "unicode_decimal": 58911
     },
     {
+      "icon_id": "9013017",
+      "name": "国际机票图标-01",
+      "font_class": "jipiao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
       "icon_id": "9350677",
       "name": "帮 助 2",
       "font_class": "bangzhu",
@@ -172,6 +242,20 @@
       "font_class": "shopp",
       "unicode": "e70d",
       "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "11414770",
+      "name": "定位",
+      "font_class": "icon-test",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11474196",
+      "name": "cart- full",
+      "font_class": "cart-full",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
     }
   ]
 }
